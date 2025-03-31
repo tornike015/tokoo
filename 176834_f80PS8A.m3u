@@ -1,0 +1,16 @@
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg?itok=szcXvvgJ" tvg-name="Georgian Movies Tv" group-title="ქართული უფასო",Qartuli kino 1
+https://glb.bozztv.com/glb/ushba23/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg?itok=i-oGmqFs" tvg-name="QARTULIKINIO TV 2" group-title="ქართული უფასო",Qartuli kino 2
+https://glb.bozztv.com/glb/ushba22/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-3filmax.jpg?itok=oirI2npF" group-title="ქართული უფასო",Qartuli kino 3
+https://glb.bozztv.com/glb/ushba51/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-otr.jpg?itok=Qqm2hw4o" group-title="ქართული უფასო",Qartuli Ucnobi Arkhi
+https://glb.bozztv.com/glb/ushba37/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs01.myvideo.ge/screens/121/1203286.jpg" group-title="ქართული უფასო",MYVIDEO
+https://glb.bozztv.com/glb/ushba18/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.apsua.tv/images/agtrk_logo.png" group-title="ქართული უფასო",Apsua TV
+https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/df7d34011fed486ca922bac31068d74f--livemaster--64vlivmsot_agtrk_tcode1080p--tracks-v1a1--rewind-10800.m3u8?hls_proxy_host=b7c5aa823b9f91c571628185301e52ad
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/original/901051.webp" group-title="ქართული უფასო",Apsua Music
+https://132544.edgevideo.ru/streams/132544_816845/1325441080/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStKO1jQ2oIoJRX8nNyg4ssEwJCRZBKziB2AJYsScUW15vDpk0LDn6_9q4&s" group-title="ქართული უფასო",Abaza TV
+https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
